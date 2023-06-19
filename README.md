@@ -3,31 +3,36 @@
 ## Descripción
 
 Este es un proyecto de una aplicación web en React llamada "Car Shop" que permite ordernar el mantenimiento y servicios para automoviles. Este archivo proporciona instrucciones sobre cómo desplegar y ejecutar la aplicación en tu máquina local. El proyecto esta comprendido en la siguiente estrcutura: 
-└── assets
-└── node_modules
-└── public
-└── src
-└── index.html
-└── package.json
-└── package-lock.json
-└── README.md (React default info)
+
+
+    .
+    └── assets
+    └── node_modules
+    └── public
+    └── src
+    └── index.html
+    └── package.json
+    └── package-lock.json
+    └── README.md (React default info)
 
 
 
 Donde en la carpeta **src** se encuentran los siguientes archivos:
-└── /src
-    ├── /components
-    ├── /services
-    ├── /store
-    ├── /utils
-    ├── /views
-    ├── index.css
-    ├── index.js  
-    ├── App.test.js
-    ├── setupTest.css
-    ├── reportWebVitals.js
-    ├── App.css
-    └── App.js
+
+    .
+        └── /src
+            ├── /components
+            ├── /services
+            ├── /store
+            ├── /utils
+            ├── /views
+            ├── index.css
+            ├── index.js  
+            ├── App.test.js
+            ├── setupTest.css
+            ├── reportWebVitals.js
+            ├── App.css
+            └── App.js
 
 ### Requisitos previos 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
