@@ -62,7 +62,7 @@ Sigue los pasos a continuación para desplegar y ejecutar el proyecto "Car Shop"
 - Abre una terminal o línea de comandos y navega hasta el directorio del proyecto: cd car-shop
 - Instala las dependencias del proyecto ejecutando el siguiente comando:npm install
 - Una vez que se completen las instalaciones, puedes ejecutar el siguiente comando para iniciar la aplicación:npm star. Este comando compilará el código de React y abrirá automáticamente la aplicación en tu navegador web predeterminado. Si no se abre automáticamente, puedes acceder a la aplicación visitando http://localhost:3000 en tu navegador.
-- ¡Listo! Ahora puedes explorar y utilizar la aplicación "Car Shop" en tu máquina local. Puedes navegar por la lista de automóviles, ver detalles, agregarlos al carrito de compras y realizar compras simuladas.
+- ¡Listo! Ahora puedes explorar y utilizar la aplicación "Car Shop" en tu máquina local. 
 
 
 ## AWS deployment
