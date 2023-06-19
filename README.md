@@ -2,7 +2,11 @@
 
 ## Descripción
 
-Este es un proyecto de una aplicación web en React llamada "Car Shop" que permite ordernar el mantenimiento y servicios para automoviles. Este archivo proporciona instrucciones sobre cómo desplegar y ejecutar la aplicación en tu máquina local. El proyecto esta comprendido en la siguiente estrcutura: 
+Este es un proyecto de una aplicación web en React llamada "Car Shop" que permite ordernar el mantenimiento y servicios para automoviles. Este archivo proporciona instrucciones sobre cómo desplegar y ejecutar la aplicación en tu máquina local. 
+
+## Desarrollo
+
+El proyecto esta comprendido en la siguiente estrcutura: 
 
 
     .
@@ -33,6 +37,9 @@ Donde en la carpeta **src** se encuentran los siguientes archivos:
             ├── reportWebVitals.js
             ├── App.css
             └── App.js
+
+
+## Despliegue
 
 ### Requisitos previos 
 Antes de comenzar, asegúrate de tener instalados los siguientes componentes:
