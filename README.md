@@ -53,3 +53,8 @@ Sigue los pasos a continuación para desplegar y ejecutar el proyecto "Car Shop"
 - Instala las dependencias del proyecto ejecutando el siguiente comando:npm install
 - Una vez que se completen las instalaciones, puedes ejecutar el siguiente comando para iniciar la aplicación:npm star. Este comando compilará el código de React y abrirá automáticamente la aplicación en tu navegador web predeterminado. Si no se abre automáticamente, puedes acceder a la aplicación visitando http://localhost:3000 en tu navegador.
 - ¡Listo! Ahora puedes explorar y utilizar la aplicación "Car Shop" en tu máquina local. Puedes navegar por la lista de automóviles, ver detalles, agregarlos al carrito de compras y realizar compras simuladas.
+
+
+## AWS deployment
+
+Para subir el proyecto a los servicios de AWS se creo un bucket donde se alojara el sitio web estatico. Usted puede consultar el proyecto desde este el siguiente enlace: http://deploy-react-app-bootcamp-tandazo.s3-website-us-east-1.amazonaws.com/
