@@ -37,7 +37,17 @@ Donde en la carpeta **src** se encuentran los siguientes archivos:
             ├── reportWebVitals.js
             ├── App.css
             └── App.js
+Dentro de la carpeta **components** se encuentran las funciones desarrolladas para el correcto funcionamiento del proyecto. 
+ 
 
+    .
+        └── /components
+            ├── CarInfo.js  
+            ├── FinishOrder.js
+            ├── Form.js
+            ├── PersonalInfo.js
+            ├── ServiceList.css
+            └── SignUpInfo.js
 
 ## Despliegue
 
